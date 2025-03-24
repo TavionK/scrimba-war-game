@@ -18,11 +18,12 @@ This is a simple single-page application (SPA) built with HTML, CSS, and JavaScr
 
 ## How to Play
 
-1. Click the New Deck button to generate a shuffled deck.
-2. Click Draw to reveal a card for yourself and the computer.
-3. The game automatically compares the two cards and awards a point to the player with the higher card.
-4. Repeat until all cards have been drawn.
-5. At the end of the game, the player with the most points is declared the winner.
+1. Open the application in the browser: https://tavion-war-game.netlify.app/
+2. Click the New Deck button to generate a shuffled deck.
+3. Click Draw to reveal a card for yourself and the computer.
+4. The game automatically compares the two cards and awards a point to the player with the higher card.
+5. Repeat until all cards have been drawn.
+6. At the end of the game, the player with the most points is declared the winner.
 
 ## Preview
 
