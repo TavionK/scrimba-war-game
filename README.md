@@ -1,4 +1,4 @@
-# War Card Game (Single Page Application)
+# War Card Game
 
 This is a simple single-page application (SPA) built with HTML, CSS, and JavaScript that simulates the classic card game "War." The game utilizes a deck of 52 playing cards, and the player competes against the computer to determine who has the highest card in each round. Points are awarded accordingly, and the player with the most points at the end of the deck wins.
 
@@ -23,3 +23,7 @@ This is a simple single-page application (SPA) built with HTML, CSS, and JavaScr
 3. The game automatically compares the two cards and awards a point to the player with the higher card.
 4. Repeat until all cards have been drawn.
 5. At the end of the game, the player with the most points is declared the winner.
+
+## Preview
+
+![War Card Game Preview](img/preview.png)
