@@ -4,10 +4,10 @@ This is a simple single-page application (SPA) built with HTML, CSS, and JavaScr
 
 ## Features
 
-- New Deck Button: Generates a shuffled deck of 52 cards.
-- Draw Button: Draws a card for both the player and the computer.
-- Automatic Scoring: The higher card wins the round and earns a point.
-- Ace is the highest: The ranking order follows: 2 < 3 < ... < King < Ace.
+- **New Deck Button:** Generates a shuffled deck of 52 cards.
+- **Draw Button:** Draws a card for both the player and the computer.
+- **Automatic Scoring:** The higher card wins the round and earns a point.
+- **Ace is the highest:** The ranking order follows: 2 < 3 < ... < King < Ace.
 - **Winner Announcement:** After all cards have been drawn, the winner is displayed.
 
 ## Technologies Used
