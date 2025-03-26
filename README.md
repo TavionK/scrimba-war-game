@@ -24,6 +24,7 @@ This is a simple single-page application (SPA) built with HTML, CSS, and JavaScr
 4. The game automatically compares the two cards and awards a point to the player with the higher card.
 5. Repeat until all cards have been drawn.
 6. At the end of the game, the player with the most points is declared the winner.
+7. Click Draw to Restart the game
 
 ## Preview
 
