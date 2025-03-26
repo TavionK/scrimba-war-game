@@ -29,3 +29,7 @@ This is a simple single-page application (SPA) built with HTML, CSS, and JavaScr
 ## Preview
 
 ![War Card Game Preview](img/preview.png)
+
+## Acknowledgment
+
+Thank you to the [Deck of Cards api](https://deckofcardsapi.com/) for providing the card images and data!
