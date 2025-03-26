@@ -10,11 +10,21 @@ const computerScoreEl = document.getElementById("computer-score")
 const myScoreEl = document.getElementById("my-score")
 
 async function handleClick() {
+    restartGame()
     const res = await fetch("https://apis.scrimba.com/deckofcards/api/deck/new/shuffle/")
     const data = await res.json()
     remainingText.textContent = `Remaining cards: ${data.remaining}`
     deckId = data.deck_id
     console.log(deckId)
+}
+
+function restartGame(){
+    computerScore = 0
+    myScore = 0
+    computerScoreEl.textContent = "Computer score: 0"
+    myScoreEl.textContent = "My score: 0"
+    header.textContent = "Game of War"
+    drawCardBtn.disabled = false
 }
 
 newDeckBtn.addEventListener("click", handleClick)
